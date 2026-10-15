@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GABM.Temperatura.UnitTestMS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GABM.ManipuladorCadenas", "GABM.ManipuladorCadenas\GABM.ManipuladorCadenas.csproj", "{A02A2AE2-2798-41CE-8911-0F3B2D0A6B26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GABM.ManipuladorCadenas.UnitTestAppxUnit", "GABM.ManipuladorCadenas.UnitTestAppxUnit\GABM.ManipuladorCadenas.UnitTestAppxUnit.csproj", "{120D1F68-0556-41C0-A12C-9A2E7221B51F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{A02A2AE2-2798-41CE-8911-0F3B2D0A6B26}.Release|x64.Build.0 = Release|Any CPU
 		{A02A2AE2-2798-41CE-8911-0F3B2D0A6B26}.Release|x86.ActiveCfg = Release|Any CPU
 		{A02A2AE2-2798-41CE-8911-0F3B2D0A6B26}.Release|x86.Build.0 = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|x64.Build.0 = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Debug|x86.Build.0 = Debug|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|x64.ActiveCfg = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|x64.Build.0 = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|x86.ActiveCfg = Release|Any CPU
+		{120D1F68-0556-41C0-A12C-9A2E7221B51F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
