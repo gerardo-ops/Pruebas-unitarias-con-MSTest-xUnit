@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GABM.Temperatura", "GABM.Temperatura\GABM.Temperatura.csproj", "{3F4495B3-A3BF-425C-AAEF-8E81E1C006D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GABM.Temperatura.UnitTestMSTest", "GABM.Temperatura.UnitTestMSTest\GABM.Temperatura.UnitTestMSTest.csproj", "{CF27425E-EC63-4F5B-B2B9-615E217926A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{3F4495B3-A3BF-425C-AAEF-8E81E1C006D6}.Release|x64.Build.0 = Release|Any CPU
 		{3F4495B3-A3BF-425C-AAEF-8E81E1C006D6}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F4495B3-A3BF-425C-AAEF-8E81E1C006D6}.Release|x86.Build.0 = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|x64.Build.0 = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF27425E-EC63-4F5B-B2B9-615E217926A8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
